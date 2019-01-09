@@ -1,5 +1,5 @@
 // User service UUID: Change this to your generated service UUID
-const USER_SERVICE_UUID         = '991436e0-53af-43e6-8f26-50620f9e8099'; // LED, Button
+const USER_SERVICE_UUID         = 'a903248c-ce7a-4e7f-8f55-fb5e04d03ded'; // LED, Button
 // User service characteristics
 const LED_CHARACTERISTIC_UUID   = 'E9062E71-9E62-4BC6-B0D3-35CDCD9B027B';
 const BTN_CHARACTERISTIC_UUID   = '62FBD229-6EDD-4D1A-B554-5C4E1BB29169';
